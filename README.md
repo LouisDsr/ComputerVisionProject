@@ -7,7 +7,7 @@ La plupart des vidéos dont nous voulions nous inspirer traiter la Langue des Si
 petites mains.
 
 Cependant nous avons rencontrer quelques problèmes. En effet, il nous était impossible de traiter toutes les lettres car certaines avaient besoin d'un mouvement.
-C'est le cas pour les lettres J, P, Y et Z. Cependant, nous avons tout de même rajouter Y car il est renconnaissable sans son mouvement.
+C'est le cas pour les lettres J, P, Y et Z. Cependant, nous avons tout de même rajouté Y car il est reconnaissable sans son mouvement.
 
 Mise à part ce problème d'implémentation, nous rencontrons un autre problème provenant de notre modèle en lui même. En effet, les lettres F et L sont assez 
 difficilement reconnu part notre programme surement dû à un overfit.
