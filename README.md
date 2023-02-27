@@ -10,7 +10,7 @@ Cependant nous avons rencontrer quelques problèmes. En effet, il nous était im
 C'est le cas pour les lettres J, P, Y et Z. Cependant, nous avons tout de même rajouter Y car il est renconnaissable sans son mouvement.
 
 Mise à part ce problème d'implémentation, nous rencontrons un autre problème provenant de notre modèle en lui même. En effet, les lettres F et L sont assez 
-difficilement reconnu part notre programme surment dû à un overfit.
+difficilement reconnu part notre programme surement dû à un overfit.
 
 Toutefois, nous restons très satisfaits de notre projet car nous ne trouvons que très peu de résultat pour la reconnaissance de la LSF sur internet.
 
